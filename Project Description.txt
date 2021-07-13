@@ -1,0 +1,4 @@
+This is basic expense tracker flutter project.
+- All data will only be saved until app is running
+- User can add transactions
+- Graph is there to show the weekly amount spent
