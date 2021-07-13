@@ -1,6 +1,6 @@
 # expense_tracker
 
-A new Flutter project.
+A new Flutter project. This is an expense tracker app created by using flutter. This application does not use any database to store the data so the information is only visible until the app is running.
 
 ## Getting Started
 
